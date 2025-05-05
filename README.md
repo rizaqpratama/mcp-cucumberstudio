@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rizaqpratama-mcp-cucumberstudio-badge.png)](https://mseep.ai/app/rizaqpratama-mcp-cucumberstudio)
+
 # CucumberStudio MCP Server
 
 This project implements a Model Context Protocol (MCP) server for CucumberStudio API. It provides context from the CucumberStudio platform to AI-powered applications, enabling various AI operations to be performed with CucumberStudio data.
